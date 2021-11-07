@@ -1,2 +1,2 @@
-# cognipedia
+# COGNIPEDIA
 elearning webplatform with focus on interactive shapes in images
